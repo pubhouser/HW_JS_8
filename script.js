@@ -100,7 +100,7 @@ body {
 .list li:hover > h2,
 .list li:hover > p,
 .list li:hover > button {
-    color: #fff;
+    color: #fff !important;
 }
 
 .list li span {
